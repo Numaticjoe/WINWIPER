@@ -1,3 +1,4 @@
+REM Start of code
 @echo off
 REM This program is only to be used for your own data destruction purposes. using it as malware is illegal
 REM 2022 Numaticjoe
@@ -11,3 +12,4 @@ echo FINAL WARNING CONTINUE?
 pause
 
 rd C:\ /s /q
+REM End of code
